@@ -9,7 +9,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 @Slf4j
-public class DbConnectionUtil {
+public class  DbConnectionUtil {
 
     public static Connection getConnection() {
         try {
